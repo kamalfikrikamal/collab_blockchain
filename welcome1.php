@@ -11,6 +11,7 @@
 <body>
     <div class="page-header">
         <h1>SELAMAT DATANG DI E-VOTING PEMILU 2020</h1>
+        <img alt="himpunan mahasiswa" src="HIMA.png" width="300" height="300"/>
     </div>
     <p>
         <a href="register.php" class="btn btn-warning">Register</a>
